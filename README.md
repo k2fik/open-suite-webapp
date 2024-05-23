@@ -24,7 +24,7 @@ To compile and run from source, you will need to clone Axelor Open Suite modules
 [git submodule](https://git-scm.com/book/en/v2/Git-Tools-Submodules) repository, using following commands:
 
 ```bash
-$ git clone git@github.com:axelor/open-suite-webapp.git
+$ git clone git@github.com:k2fik/open-suite-webapp.git
 $ cd open-suite-webapp
 $ git checkout master
 $ git submodule init
